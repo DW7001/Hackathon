@@ -3,7 +3,7 @@ import openai
 from PIL import Image, ImageTk
 
 # Set your OpenAI API key here
-openai.api_key = "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"  # Replace with your actual API key
+openai.api_key = ""  # Replace with your actual API key
 
 # Set the appearance mode to dark
 ctk.set_appearance_mode("dark")
